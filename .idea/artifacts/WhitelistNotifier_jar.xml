@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WhitelistNotifier:jar">
+    <output-path>$PROJECT_DIR$/../out</output-path>
+    <root id="archive" name="WhitelistNotifier.jar">
+      <element id="module-output" name="WhitelistNotifier" />
+    </root>
+  </artifact>
+</component>
